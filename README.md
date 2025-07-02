@@ -94,20 +94,36 @@ Throughout these projects, you'll practice:
 - Data Persistence
 
 
+
 ## Requirements 📋
 
 - Python 3.x
 - Additional requirements vary by project (check individual project directories)
-- To install all required external packages for these projects, run:
+- External libraries used:
+  - `pyttsx3` (used in Shoutout AI)
+  - `pypdf` (used in PDF Operations)
+
+To install all required external packages for these projects, run:
 
 ```bash
 pip install -r requirements.txt
 ```
 
 
+
+## Cloning the Repository 🛠️
+
+To clone this repository to your local machine, use the following command:
+
+```bash
+git clone <repository-url>
+```
+
+Replace `<repository-url>` with the actual URL of this repository (for example, from GitHub).
+
 ## Usage 🚀
 
-1. Clone the repository
+1. Clone the repository (see above)
 2. Install the requirements (see above)
 3. Navigate to any project directory
 4. Run the Python file for that project
