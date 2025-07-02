@@ -93,19 +93,27 @@ Throughout these projects, you'll practice:
 - Object-Oriented Programming Concepts
 - Data Persistence
 
+
 ## Requirements 📋
 
 - Python 3.x
 - Additional requirements vary by project (check individual project directories)
+- To install all required external packages for these projects, run:
+
+```bash
+pip install -r requirements.txt
+```
+
 
 ## Usage 🚀
 
 1. Clone the repository
-2. Navigate to any project directory
-3. Run the Python file for that project
-```bash
-python <project_name>.py
-```
+2. Install the requirements (see above)
+3. Navigate to any project directory
+4. Run the Python file for that project
+   ```bash
+   python <project_name>.py
+   ```
 
 ## Contributing 🤝
 
