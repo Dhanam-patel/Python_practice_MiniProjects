@@ -1,4 +1,7 @@
+
 # Python Mini Projects Collection 🐍
+
+> **Note:** For projects that require a file or directory path (such as file organizers or text/file processors), you will need to set the appropriate path yourself within the code before running the project.
 
 This repository contains a collection of Python mini-projects designed to help learn and practice various Python programming concepts. Each project focuses on different aspects of Python programming and demonstrates practical applications of programming concepts.
 
