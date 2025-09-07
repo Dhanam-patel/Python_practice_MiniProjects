@@ -1,0 +1,3 @@
+# Requirements for Mini Projects 1-10
+pyttsx3
+pypdf
